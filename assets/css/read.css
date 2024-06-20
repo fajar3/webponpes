@@ -1,0 +1,23 @@
+body{
+    background-color:  #1f2b08;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+h2 {
+    color: white;
+    text-align: center;
+}
+form {
+    max-width: 400px;
+    margin: 20px;
+    padding: 20px;
+    background-color:  hsl(84, 100%, 85%);
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(243, 242, 242, 0.966);
+    
+}
+div{
+    justify-content: center;
+}

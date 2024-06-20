@@ -1,0 +1,18 @@
+body{
+    background-color:  #1f2b08;
+}
+h1{
+    text-align: center;
+    color: white;
+    margin: 200px;
+    margin-bottom: 30px;
+}
+button {
+    padding: 16px;
+    background-color: #ffffff;
+    color: #000000;
+    border-radius: 6px;
+}
+a{
+    margin-left: 600px;
+}

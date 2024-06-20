@@ -1,0 +1,27 @@
+body{
+    background-color: #1f2b08;
+    padding: 25px;
+    padding-bottom: 13px;
+    
+}
+.satu{
+    font-size: 70px;
+    color: #9aca2a;;
+}
+.dua{
+    justify-content: space-between;
+    display: flex;
+    padding: 20px;
+}
+span{
+    color: aliceblue;
+}
+p{
+    color: white;
+    line-height: 2em;
+    word-spacing: 7px;
+}
+img{
+    height: 290px;
+    width: auto;
+}
